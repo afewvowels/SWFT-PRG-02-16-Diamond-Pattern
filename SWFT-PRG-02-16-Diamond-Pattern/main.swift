@@ -5,8 +5,19 @@
 //  Created by Keith Smith on 10/11/17.
 //  Copyright © 2017 Keith Smith. All rights reserved.
 //
+//  Write a program that displays the following pattern:
+//     *
+//    ***
+//   *****
+//  *******
+//   *****
+//    ***
+//     *
 
-import Foundation
-
-print("Hello, World!")
-
+print("   *")
+print("  ***")
+print(" *****")
+print("*******")
+print(" *****")
+print("  ***")
+print("   *")
